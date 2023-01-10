@@ -2,12 +2,46 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Liquid which is used for the formation of slurry in investment casting is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Water",
+        "b": "Carbon disulphide",
+        "c": "Sodium silicate",
+        "d": "Glycerine"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The process of dipping and stuccoing is performed continuously in the investment casting, to achieve:",
+      "answers": {
+        "a": "The desired thickness of the mould:",
+        "b": "To remove wax",
+        "c": "To cool the wax pattern",
+        "d": "To remove impurities from wax pattern"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+    {
+      "question": "Post processes such as grinding, sand blasting, cutting, etc. are used in investment casting process:",
+      "answers": {
+        "a": "True",
+        "b": "False",
+        "c": "Either a or b",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +53,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Remnants wax from the mould is removed by which of the following materials:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Nitro-glycerine",
+        "b": "Phosphoric acid",
+        "c": "Water",
+        "d": "Trichloro-ethylene"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,8 +66,8 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
-    }
+    },
   ]
 }

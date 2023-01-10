@@ -1,13 +1,138 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
-		<!-- Your code goes here-->
-
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
+<header>
+  <button class="menu-btn" onclick="dispmenu(this)">
+  <div class="container">
+  <div class="bar1"></div>
+  <div class="bar2"></div>
+  <div class="bar3"></div>
+  </div></button>
+  <b id="pagechanger"><a href="../index.html">Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</a></b>
+</header>
+<nav class="side-nav" id="navbar">
+		<div class="nav-element">
+			<a href="../index.html" >Aim</a>
+		</div>
+		<div class="nav-element">
+			<a href="../theory.html" >Theory</a>
+		</div>
+		<div class="nav-element">
+			<a href="../objective.html" >Objective</a>
+		</div>
+		<div class="nav-element">
+			<a href="../pretest.html" >Pretest</a>
+		</div>
+		<div class="nav-element">
+			<a href="../procedure.html" >Procedure</a>
+		</div>
+		<div class="nav-element">
+			<a href="index.html" >
+			<span>Simulation</span></a>
+		</div>
+		<div class="nav-element">
+			<a href="../posttest.html" >Posttest</a>
+		</div>
+		<div class="nav-element">
+			<a href="../references.html" >References</a>
+		</div>
+		<div class="nav-element">
+			<a href="../feedback.html" >Feedback</a>
+		</div>
+		</nav>
+		
+	<div id="simulation-cont">
+		<div id="matwork">
+			<div style="height:700px;">
+				Experiment 8: To study the various steps of investment casting process<br>
+				<div id="simulation">
+				<img src="images/sprueAndPatterns.jpg" width="85%"><br><br>Sprue and Patterns
+				</div>
+				
+				<div class="dieInside" id="dieInside">
+				<b style="color:red;">Click on <u>Die</u> for inside view of die while wax is filling</b><br><br>
+				<img src="images/die.jpg" width="50%" title="Click here" onclick="dieInside()"><br>Die
+				</div>
+				
+				<div class="sidecontainer" id="patternOnSprue">
+				<b style="color:red;">Click on <u>Patterns</u> to fix them on the sprue</b><br><br>
+				<img src="images/patterns.jpg" width="40%" title="Click here" onclick="patternOnSprue()"><br>Patterns
+				</div>
+				
+				<div class="sidecontainer" id="shell">
+				<b style="color:red;">Click on <u>Sprue and Pattern assembly</u> to drown into the slurry to make shell</b><br><br>
+				<img src="images/assembly.jpg" width="20%" title="Click here" onclick="shell()"><br>Sprue and Pattern assembly
+				</div>
+				
+				<div class="sidecontainer" id="shellOut">
+				<b style="color:red;">Click on <u>Slurry</u> to take out the Sprue and Pattern assembly</b><br><br>
+				<img src="images/slurry.jpg" width="30%" title="Click here" onclick="shellOut()"><br>Slurry
+				</div>
+				
+				<div class="sidecontainer" id="stucco">
+				<b style="color:red;">Click on <u>Sprue and Pattern assembly</u> to drown into the stucco to make shell</b><br><br>
+				<img src="images/stucco.jpg" width="30%" title="Click here" onclick="stucco()"><br>Stucco
+				</div>
+				
+				<div class="sidecontainer" id="deWaxing">
+				<b style="color:red;">Click on <u>Furnance</u> to do de-waxing</b><br><br>
+				<img src="images/furnance.jpg" title="Click here" onclick="deWaxing()"><br>Furnance
+				</div>
+				
+				<div class="sidecontainer" id="ladle">
+				<b style="color:red;">Click on <u>Ladle</u> to pour the molten metal</b><br><br>
+				<img src="images/ladle.jpg" width="100px" title="Click here" onclick="ladle()"><br>Ladle
+				</div>
+				
+				<div class="sidecontainer" id="solidified">
+				<b style="color:red;">Click on <u>Patterns</u> to get final patterns</b><br><br>
+				<img src="images/finalPattern.jpg" width="150px" title="Click here" onclick="solidified()"><br>Patterns
+				</div>
+				
+			</div>
+<img src="images/reset.jpg" align="right" width="7%" onclick="resetfun()"><br>
+<hr>
+	<div id="about">
+		<div class="box" id="zoom">
+			<img src="images/sprue.jpg" title="Sprue">
+			<h3 class="h-secondary center">Sprue</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/die.jpg" title="Die">
+			<h3 class="h-secondary center">Die</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/gasLighter.jpg" title="Gas Lighter">
+			<h3 class="h-secondary center">Gas Lighter</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/slurryStucco.jpg" title="Slurry and Stucco">
+			<h3 class="h-secondary center">Slurry and Stucco</h3>
+		</div>
+				
+		<div class="box" id="zoom">
+			<img src="images/furnance.jpg" title="Furnance">
+			<h3 class="h-secondary center">Furnance</h3>
+		</div>
+		
+	</div>
+	</div>
+</div>
+<div style="margin-top:25px" id="footer">
+<hr>
+<Marquee>
+Copyright &copy; Dayalbagh Educational Institute&nbsp;<a href="https://www.dei.ac.in" target="_blank" title="DEI">(www.dei.ac.in)</a>&nbsp;-&nbsp;<a href="http://msvs-dei.vlabs.ac.in/ajay/index.html" target="_blank" title="Profile">Ajay Kant Upadhyay</a>
+</Marquee>
+</div>
 </body>
 </html>

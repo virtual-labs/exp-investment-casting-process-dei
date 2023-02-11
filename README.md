@@ -1,24 +1,26 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Mechanical Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab
+<b> Experiment| <b> To study the various steps of Investment casting process.
 
-### About the Experiment 
+### About the Experiment
 
-Fill a brief description of this experiment here
-
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+Investment casting is one of the oldest manufacturing processes, dating back thousands of years, in which molten metal is poured into an expendable ceramic mould. The mould is formed by using a wax pattern - a disposable piece having the shape of the desired part.
+ 
+<b>Name of Developer | <b> Prof. Rahul Swarup Sharma
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | Dayalbagh Educatonal Institute <b>  
+<b> Email ID |  rahulswarup@dei.ac.in   <b>  
+<b> Department |  Mechanical Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Ajay Kant Upadhyay | Project Associate | Mechanical Engineering | Dayalbagh Educational Institute | ajaykant900@gmail.com
+2 | Anand Swarup Chandrakar | Web Developer | Mechanical Engineering | Dayalbagh Educational Institute | anandswaroop201@gmail.com
+3 | Hritav Gupta | Web Developer | Mechanical Engineering | Dayalbagh Educational Institute | hritavg@gmail.com
+4 | Lakshya Bhardwaj | Web Developer | Mechanical Engineering | Dayalbagh Educational Institute | lakshya.bhardwaj121@gmail.com

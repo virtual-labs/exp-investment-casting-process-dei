@@ -22,13 +22,13 @@ The process steps include the following:
 •	Heat treatment is also sometimes used to harden the final part.
 
 ## Advantages
-•	Investment casting is a manufacturing process that allows the casting of extremely complex parts, with good surface finish.
-•	Very thin sections can be produced by this process. Metal castings with sections as narrow as 0.5 mm have been manufactured using investment casting. 
-•	Investment casting also allows for high dimensional accuracy. Tolerances as low as 0.08 mm have been claimed in ideal case.
-•	Practically any metal can be investment cast. Parts manufactured by this process are generally small, but parts weighing up to 25 -30 Kgs have been found suitable for this technique. 
+•	Investment casting is a manufacturing process that allows the casting of extremely complex parts, with good surface finish.<br>
+•	Very thin sections can be produced by this process. Metal castings with sections as narrow as 0.5 mm have been manufactured using investment casting.<br> 
+•	Investment casting also allows for high dimensional accuracy. Tolerances as low as 0.08 mm have been claimed in ideal case.<br>
+•	Practically any metal can be investment cast. Parts manufactured by this process are generally small, but parts weighing up to 25 -30 Kgs have been found suitable for this technique.<br> 
 •	Parts of the investment process may be automated.
 
 ## Disadvantages
-•	Investment casting is a complicated process. 
-•	Investment casting is relatively expensive. 
+•	Investment casting is a complicated process.<br> 
+•	Investment casting is relatively expensive.<br>
 •	Investment casting is not suitable for heavy objects.

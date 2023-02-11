@@ -3,5 +3,5 @@
 ## Material used: 
 Metal die, Wax, Ceramic slurry, Furnace, Molten metal
 
-##Apparatus used: 
+## Apparatus used: 
 Metal die, furnace

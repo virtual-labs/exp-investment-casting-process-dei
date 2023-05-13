@@ -13,7 +13,7 @@ The process steps include the following:
 
 •	<b>Mould creation</b> - This pattern tree or single pattern is dipped into slurry of fine ceramic particles, coated with more coarse particles, and then dried to form a ceramic shell around the patterns and gating system. This process is repeated until the shell is thick enough to withstand the molten metal it will encounter. The shell is then placed into an oven and the wax is melted out leaving a hollow ceramic shell that acts as a one-piece mould, hence the name "lost wax" casting.
 
-•	<b>Drying & Pouring</b> - The mould is preheated in a furnace to approximately 2500C and the molten metal is poured into the gating system of the mould, filling the mould cavity. Pouring is typically achieved manually under the force of gravity, but other methods such as vacuum or pressure are sometimes used.
+•	<b>Drying & Pouring</b> - The mould is preheated in a furnace to approximately 250<sup>o</sup>C and the molten metal is poured into the gating system of the mould, filling the mould cavity. Pouring is typically achieved manually under the force of gravity, but other methods such as vacuum or pressure are sometimes used.
 
 •	<b>Time for Solidification</b> - After the mould has been filled, the molten metal is allowed to cool and solidify into the shape of the final casting. Cooling time depends on the thickness of the part, thickness of the mould, and the material used.
 
@@ -21,14 +21,14 @@ The process steps include the following:
 
 •	Heat treatment is also sometimes used to harden the final part.
 
-## Advantages
+### Advantages
 •	Investment casting is a manufacturing process that allows the casting of extremely complex parts, with good surface finish.<br>
 •	Very thin sections can be produced by this process. Metal castings with sections as narrow as 0.5 mm have been manufactured using investment casting.<br> 
 •	Investment casting also allows for high dimensional accuracy. Tolerances as low as 0.08 mm have been claimed in ideal case.<br>
 •	Practically any metal can be investment cast. Parts manufactured by this process are generally small, but parts weighing up to 25 -30 Kgs have been found suitable for this technique.<br> 
 •	Parts of the investment process may be automated.
 
-## Disadvantages
+### Disadvantages
 •	Investment casting is a complicated process.<br> 
 •	Investment casting is relatively expensive.<br>
 •	Investment casting is not suitable for heavy objects.

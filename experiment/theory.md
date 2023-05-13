@@ -13,7 +13,7 @@ The process steps include the following:
 
 •	<b>Mould creation</b> - This pattern tree or single pattern is dipped into slurry of fine ceramic particles, coated with more coarse particles, and then dried to form a ceramic shell around the patterns and gating system. This process is repeated until the shell is thick enough to withstand the molten metal it will encounter. The shell is then placed into an oven and the wax is melted out leaving a hollow ceramic shell that acts as a one-piece mould, hence the name "lost wax" casting.
 
-•	<b>Drying & Pouring</b> - The mould is preheated in a furnace to approximately 250<sup>0</sup>C and the molten metal is poured into the gating system of the mould, filling the mould cavity. Pouring is typically achieved manually under the force of gravity, but other methods such as vacuum or pressure are sometimes used.
+•	<b>Drying & Pouring</b> - The mould is preheated in a furnace to approximately 250<sup>o</sup>C and the molten metal is poured into the gating system of the mould, filling the mould cavity. Pouring is typically achieved manually under the force of gravity, but other methods such as vacuum or pressure are sometimes used.
 
 •	<b>Time for Solidification</b> - After the mould has been filled, the molten metal is allowed to cool and solidify into the shape of the final casting. Cooling time depends on the thickness of the part, thickness of the mould, and the material used.
 

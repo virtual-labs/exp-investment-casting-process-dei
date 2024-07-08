@@ -10,10 +10,10 @@
         "d": "Glycerine"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Water is commonly used in various processes, but in investment casting, it is typically not used as the primary liquid for forming the slurry.",
+        "b": "This is a chemical solvent that is not typically used in investment casting.",
+        "c": "In the investment casting process, slurry is used to build up ceramic molds around wax patterns. The liquid used for forming this slurry is typically sodium silicate, also known as water glass. Sodium silicate is mixed with ceramic powder to create a viscous slurry that can be applied to the wax pattern to build up the ceramic shell.",
+        "d": "Glycerine is a viscous liquid used in various applications, but it is not commonly used for forming the slurry in investment casting."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "To remove impurities from wax pattern"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Dipping and stuccoing are performed continuously to achieve the desired thickness of the ceramic mould or shell. Each layer of ceramic material adds to the overall thickness of the mould.",
+        "b": "Wax removal is a separate step in investment casting, usually through heating or melting the wax out of the ceramic shell.",
+        "c": "Cooling of the wax pattern is not the purpose of dipping and stuccoing.",
+        "d": "Removing impurities from the wax pattern is also a separate step in investment casting, such as cleaning or inspecting the wax pattern before shell building."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Post-processes such as grinding, sand blasting, cutting, and various finishing operations are commonly used in the investment casting process. These processes are applied after the casting has been removed from the ceramic shell and the gating system (sprue, runner, and risers) has been cut off. The purpose of these post-processes is to remove any remaining ceramic shell material, smooth out rough surfaces, achieve final dimensional accuracy, and improve the overall surface finish of the casting.",
+        "b": "Post-processes such as grinding, sand blasting, cutting, and various finishing operations are commonly used in the investment casting process. These processes are applied after the casting has been removed from the ceramic shell and the gating system (sprue, runner, and risers) has been cut off. The purpose of these post-processes is to remove any remaining ceramic shell material, smooth out rough surfaces, achieve final dimensional accuracy, and improve the overall surface finish of the casting.",
+        "c": "Post-processes such as grinding, sand blasting, cutting, and various finishing operations are commonly used in the investment casting process. These processes are applied after the casting has been removed from the ceramic shell and the gating system (sprue, runner, and risers) has been cut off. The purpose of these post-processes is to remove any remaining ceramic shell material, smooth out rough surfaces, achieve final dimensional accuracy, and improve the overall surface finish of the casting.",
+        "d": "Post-processes such as grinding, sand blasting, cutting, and various finishing operations are commonly used in the investment casting process. These processes are applied after the casting has been removed from the ceramic shell and the gating system (sprue, runner, and risers) has been cut off. The purpose of these post-processes is to remove any remaining ceramic shell material, smooth out rough surfaces, achieve final dimensional accuracy, and improve the overall surface finish of the casting."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Trichloro-ethylene"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Nitro-glycerine is an explosive compound and not used for removing wax in investment casting.",
+        "b": "Phosphoric acid is an acid and not typically used for wax removal in investment casting.",
+        "c": "Water is not effective for removing wax residues because wax is not soluble in water.",
+        "d": "In the investment casting process, remnants of wax from the ceramic shell (mould) are typically removed using a solvent that can dissolve or melt the wax without damaging the ceramic shell or the casting inside. Trichloro-ethylene is a solvent commonly used for this purpose because it effectively dissolves wax residues while being relatively safe to use with ceramic materials."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"

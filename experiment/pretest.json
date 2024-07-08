@@ -10,10 +10,10 @@
         "d": "0.09 mm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "In the investment casting process, under ideal conditions, tolerances of up to 0.08 mm (or 80 microns) can be achieved. This precision allows for the production of intricate and detailed parts with accurate dimensions.",
+        "b": "In the investment casting process, under ideal conditions, tolerances of up to 0.08 mm (or 80 microns) can be achieved. This precision allows for the production of intricate and detailed parts with accurate dimensions.",
+        "c": "In the investment casting process, under ideal conditions, tolerances of up to 0.08 mm (or 80 microns) can be achieved. This precision allows for the production of intricate and detailed parts with accurate dimensions.",
+        "d": "In the investment casting process, under ideal conditions, tolerances of up to 0.08 mm (or 80 microns) can be achieved. This precision allows for the production of intricate and detailed parts with accurate dimensions."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Connecting rod and crankshaft"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Investment casting, also known as lost-wax casting, is commonly used to produce intricate and complex metal parts, particularly those requiring high precision and fine detail.",
+        "b": "Investment casting, also known as lost-wax casting, is commonly used to produce intricate and complex metal parts, particularly those requiring high precision and fine detail.",
+        "c": "Investment casting, also known as lost-wax casting, is commonly used to produce intricate and complex metal parts, particularly those requiring high precision and fine detail.",
+        "d": "Investment casting, also known as lost-wax casting, is commonly used to produce intricate and complex metal parts, particularly those requiring high precision and fine detail."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Frame"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Components like valve casings and pistons in automotive engines can be produced using investment casting to achieve precise dimensions and smooth surfaces.",
+        "b": "Investment casting is also widely used in the aerospace industry for manufacturing turbine blades due to its ability to create complex and aerodynamically efficient shapes.",
+        "c": "Automotive parts that are made using the investment casting process include both valve parts (such as casing and pistons) and turbine blades. Investment casting is chosen for these applications because it allows for the production of complex shapes with high precision and fine details.",
+        "d": "Automotive parts that are made using the investment casting process include both valve parts (such as casing and pistons) and turbine blades. Investment casting is chosen for these applications because it allows for the production of complex shapes with high precision and fine details."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "All the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Investment casting can achieve smooth and high-quality surface finishes on the cast parts, reducing the need for additional machining or finishing operations.",
+        "b": "This process allows for the production of parts with tight tolerances and precise dimensions, often reaching tolerances of up to 0.08 mm (or 80 microns).",
+        "c": "Investment casting is capable of producing intricate and complex parts that may be difficult or impossible to create using other casting methods. This includes parts with thin walls, internal cavities, and intricate geometries.",
+        "d": "All the above"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -78,12 +78,12 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Investment casting is a specific casting process used for a variety of metals, including those with high melting points.",
+        "b": "Refers to the materials themselves, which can include alloys and pure metals with high melting temperatures.",
+        "c": "The investment casting process is advantageous for casting metals with high melting temperatures that cannot be easily molded using traditional methods like plaster or metal molds. This includes both casting metals (the process itself) and metals (referring to the materials being cast).",
+        "d": "Both (a) and (b)"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "C",
       "difficulty": "beginner"
     }
   ]

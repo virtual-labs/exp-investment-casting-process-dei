@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the purpose of the gating system in investment casting? (LO2)",
+      "question": "What is the purpose of the gating system in investment casting?",
       "answers": {
         "a": "To remove impurities from the molten metal",
         "b": "To allow gases to escape from the mould",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Why is the ceramic mould preheated before pouring molten metal? (LO2)",
+      "question": "Why is the ceramic mould preheated before pouring molten metal?",
       "answers": {
         "a": "To expand the cavity for more metal to enter",
         "b": "To remove moisture and prevent thermal shock",

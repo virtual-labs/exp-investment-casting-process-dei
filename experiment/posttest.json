@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the purpose of the gating system in investment casting?",
+      "question": "What is the purpose of the gating system in investment casting? (LO2)",
       "answers": {
         "a": "To remove impurities from the molten metal",
         "b": "To allow gases to escape from the mould",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
   {
-      "question": "What happens after the molten metal solidifies in the ceramic mould?",
+      "question": "What happens after the molten metal solidifies in the ceramic mould? ()",
       "answers": {
         "a": "The wax pattern reforms inside the mould",
         "b": "The ceramic mould is broken to remove the casting",

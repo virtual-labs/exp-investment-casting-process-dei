@@ -10,10 +10,10 @@
         "d": "To cool the metal faster after pouring"
       },
       "explanations": {
-        "a": "The gating system (sprue, runners, and risers) ensures smooth metal flow into the mould, preventing turbulence and defects.",
-        "b": "The gating system (sprue, runners, and risers) ensures smooth metal flow into the mould, preventing turbulence and defects.",
-        "c": "The gating system (sprue, runners, and risers) ensures smooth metal flow into the mould, preventing turbulence and defects.",
-        "d": "The gating system (sprue, runners, and risers) ensures smooth metal flow into the mould, preventing turbulence and defects."
+        "a": "The gating system (sprue, runners and risers) ensures smooth metal flow into the mould, preventing turbulence and defects.",
+        "b": "The gating system (sprue, runners and risers) ensures smooth metal flow into the mould, preventing turbulence and defects.",
+        "c": "The gating system (sprue, runners and risers) ensures smooth metal flow into the mould, preventing turbulence and defects.",
+        "d": "The gating system (sprue, runners and risers) ensures smooth metal flow into the mould, preventing turbulence and defects."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "To make the molten metal flow slower"
       },
       "explanations": {
-        "a": "Preheating eliminates moisture, preventing explosions, and reduces temperature differences, preventing cracks and ensuring proper metal flow.",
-        "b": "Preheating eliminates moisture, preventing explosions, and reduces temperature differences, preventing cracks and ensuring proper metal flow.",
-        "c": "Preheating eliminates moisture, preventing explosions, and reduces temperature differences, preventing cracks and ensuring proper metal flow.",
-        "d": "Preheating eliminates moisture, preventing explosions, and reduces temperature differences, preventing cracks and ensuring proper metal flow."
+        "a": "Preheating eliminates moisture, preventing explosions and reduces temperature differences, preventing cracks and ensuring proper metal flow.",
+        "b": "Preheating eliminates moisture, preventing explosions and reduces temperature differences, preventing cracks and ensuring proper metal flow.",
+        "c": "Preheating eliminates moisture, preventing explosions and reduces temperature differences, preventing cracks and ensuring proper metal flow.",
+        "d": "Preheating eliminates moisture, preventing explosions and reduces temperature differences, preventing cracks and ensuring proper metal flow."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Polishing the ceramic mould for reuse"
       },
       "explanations": {
-        "a": "Sandblasting, grinding, and heat treatment are commonly used to smooth surfaces, remove gates/runners, and enhance material properties.",
-        "b": "Sandblasting, grinding, and heat treatment are commonly used to smooth surfaces, remove gates/runners, and enhance material properties.",
-        "c": "Sandblasting, grinding, and heat treatment are commonly used to smooth surfaces, remove gates/runners, and enhance material properties.",
-        "d": "Sandblasting, grinding, and heat treatment are commonly used to smooth surfaces, remove gates/runners, and enhance material properties."
+        "a": "Sandblasting, grinding and heat treatment are commonly used to smooth surfaces, remove gates/runners, and enhance material properties.",
+        "b": "Sandblasting, grinding and heat treatment are commonly used to smooth surfaces, remove gates/runners, and enhance material properties.",
+        "c": "Sandblasting, grinding and heat treatment are commonly used to smooth surfaces, remove gates/runners, and enhance material properties.",
+        "d": "Sandblasting, grinding and heat treatment are commonly used to smooth surfaces, remove gates/runners, and enhance material properties."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -112,10 +112,10 @@
         "d": "It can only be used for ferrous metals"
       },
       "explanations": {
-        "a": "Investment casting involves multiple steps, including wax pattern creation, ceramic shell formation, burnout, and metal pouring, making it more expensive and slower than other casting methods like sand casting. However, it is highly precise and used for intricate parts.",
-        "b": "Investment casting involves multiple steps, including wax pattern creation, ceramic shell formation, burnout, and metal pouring, making it more expensive and slower than other casting methods like sand casting. However, it is highly precise and used for intricate parts.",
-        "c": "Investment casting involves multiple steps, including wax pattern creation, ceramic shell formation, burnout, and metal pouring, making it more expensive and slower than other casting methods like sand casting. However, it is highly precise and used for intricate parts.",
-        "d": "Investment casting involves multiple steps, including wax pattern creation, ceramic shell formation, burnout, and metal pouring, making it more expensive and slower than other casting methods like sand casting. However, it is highly precise and used for intricate parts."
+        "a": "Investment casting involves multiple steps, including wax pattern creation, ceramic shell formation, burnout and metal pouring, making it more expensive and slower than other casting methods like sand casting. However, it is highly precise and used for intricate parts.",
+        "b": "Investment casting involves multiple steps, including wax pattern creation, ceramic shell formation, burnout and metal pouring, making it more expensive and slower than other casting methods like sand casting. However, it is highly precise and used for intricate parts.",
+        "c": "Investment casting involves multiple steps, including wax pattern creation, ceramic shell formation, burnout and metal pouring, making it more expensive and slower than other casting methods like sand casting. However, it is highly precise and used for intricate parts.",
+        "d": "Investment casting involves multiple steps, including wax pattern creation, ceramic shell formation, burnout and metal pouring, making it more expensive and slower than other casting methods like sand casting. However, it is highly precise and used for intricate parts."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"

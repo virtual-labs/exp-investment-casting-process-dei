@@ -1,5 +1,3 @@
-### Theory
-
 Investment casting is one of the oldest manufacturing processes, dating back thousands of years, in which molten metal is poured into an expendable ceramic mould. The mould is formed by using a wax pattern - a disposable piece having the shape of the desired part. The pattern is surrounded, or "invested", into ceramic slurry that hardens during heating into the mould. Investment casting is often referred to as "lost-wax casting" because the wax pattern is melted out of the mould after it has been formed.
 
 Lost-wax processes are one-to-one (one pattern creates one part), which increases production time and costs relative to other casting processes. However, since the mould is destroyed during the process, parts with complex geometries and intricate details can be created, which is unique feature of the process.

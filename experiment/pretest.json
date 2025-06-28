@@ -78,10 +78,10 @@
         "d": "Reheating the mould before reuse"
       },
       "explanations": {
-        "a": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment, or surface polishing to meet final specifications.",
-        "b": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment, or surface polishing to meet final specifications.",
-        "c": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment, or surface polishing to meet final specifications.",
-        "d": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment, or surface polishing to meet final specifications."
+        "a": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment or surface polishing to meet final specifications.",
+        "b": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment or surface polishing to meet final specifications.",
+        "c": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment or surface polishing to meet final specifications.",
+        "d": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment or surface polishing to meet final specifications."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"

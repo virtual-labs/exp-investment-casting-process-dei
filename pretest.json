@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is investment casting commonly known as? (LO1)",
+      "answers": {
+        "a": "Die casting",
+        "b": "Sand casting",
+        "c": "Lost-wax casting",
+        "d": "Permanent mould casting"
+      },
+      "explanations": {
+        "a": "Investment casting is often called lost-wax casting because it uses a wax pattern to form the mould cavity. The wax pattern is coated with ceramic material to create a hard shell. Once the shell hardens, the wax is melted out and drained, leaving a hollow cavity where molten metal is poured. This technique has been used for centuries and is popular for its ability to create intricate and detailed castings with excellent surface finish.",
+        "b": "Investment casting is often called lost-wax casting because it uses a wax pattern to form the mould cavity. The wax pattern is coated with ceramic material to create a hard shell. Once the shell hardens, the wax is melted out and drained, leaving a hollow cavity where molten metal is poured. This technique has been used for centuries and is popular for its ability to create intricate and detailed castings with excellent surface finish.",
+        "c": "Investment casting is often called lost-wax casting because it uses a wax pattern to form the mould cavity. The wax pattern is coated with ceramic material to create a hard shell. Once the shell hardens, the wax is melted out and drained, leaving a hollow cavity where molten metal is poured. This technique has been used for centuries and is popular for its ability to create intricate and detailed castings with excellent surface finish.",
+        "d": "Investment casting is often called lost-wax casting because it uses a wax pattern to form the mould cavity. The wax pattern is coated with ceramic material to create a hard shell. Once the shell hardens, the wax is melted out and drained, leaving a hollow cavity where molten metal is poured. This technique has been used for centuries and is popular for its ability to create intricate and detailed castings with excellent surface finish."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the purpose of the ceramic slurry in investment casting? (LO2)",
+      "answers": {
+        "a": "To act as a permanent mould for casting",
+        "b": "To coat the wax pattern and form a hard shell",
+        "c": "To improve the surface finish of the casting",
+        "d": "To act as a heat insulator during pouring"
+      },
+      "explanations": {
+        "a": "The ceramic slurry coats the wax pattern and hardens into a durable shell that serves as the mould for casting. It is heat-resistant and capable of withstanding high temperatures, ensuring that the metal retains its shape as it solidifies. The smooth ceramic surface also improves casting quality, reducing the need for post-processing.",
+        "b": "The ceramic slurry coats the wax pattern and hardens into a durable shell that serves as the mould for casting. It is heat-resistant and capable of withstanding high temperatures, ensuring that the metal retains its shape as it solidifies. The smooth ceramic surface also improves casting quality, reducing the need for post-processing.",
+        "c": "The ceramic slurry coats the wax pattern and hardens into a durable shell that serves as the mould for casting. It is heat-resistant and capable of withstanding high temperatures, ensuring that the metal retains its shape as it solidifies. The smooth ceramic surface also improves casting quality, reducing the need for post-processing.",
+        "d": "The ceramic slurry coats the wax pattern and hardens into a durable shell that serves as the mould for casting. It is heat-resistant and capable of withstanding high temperatures, ensuring that the metal retains its shape as it solidifies. The smooth ceramic surface also improves casting quality, reducing the need for post-processing."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "How is the molten metal poured into the investment casting mould? (LO2)",
+      "answers": {
+        "a": "By injecting under high pressure",
+        "b": "By pouring manually using gravity",
+        "c": "By using electromagnetic induction",
+        "d": "By mixing the metal with the wax"
+      },
+      "explanations": {
+        "a": "In most cases, molten metal is poured into the mould using gravity, which ensures a steady and even metal flow into the cavity. However, for intricate parts or reactive metals, vacuum or pressure-assisted pouring is used to improve filling and reduce defects like porosity or inclusions.",
+        "b": "In most cases, molten metal is poured into the mould using gravity, which ensures a steady and even metal flow into the cavity. However, for intricate parts or reactive metals, vacuum or pressure-assisted pouring is used to improve filling and reduce defects like porosity or inclusions.",
+        "c": "In most cases, molten metal is poured into the mould using gravity, which ensures a steady and even metal flow into the cavity. However, for intricate parts or reactive metals, vacuum or pressure-assisted pouring is used to improve filling and reduce defects like porosity or inclusions.",
+        "d": "In most cases, molten metal is poured into the mould using gravity, which ensures a steady and even metal flow into the cavity. However, for intricate parts or reactive metals, vacuum or pressure-assisted pouring is used to improve filling and reduce defects like porosity or inclusions."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  {
+      "question": "What happens to the wax pattern after the ceramic shell is hardened? (LO2)",
+      "answers": {
+        "a": "It remains inside the mould",
+        "b": "It burns and mixes with the molten metal",
+        "c": "It is melted and drained out of the mould",
+        "d": "It solidifies and strengthens the mould"
+      },
+      "explanations": {
+        "a": "The wax pattern is heated in an oven or autoclave, causing it to melt and flow out, leaving a hollow cavity inside the ceramic shell. This step is essential to prevent contamination of the molten metal and ensure accurate casting dimensions",
+        "b": "The wax pattern is heated in an oven or autoclave, causing it to melt and flow out, leaving a hollow cavity inside the ceramic shell. This step is essential to prevent contamination of the molten metal and ensure accurate casting dimensions",
+        "c": "The wax pattern is heated in an oven or autoclave, causing it to melt and flow out, leaving a hollow cavity inside the ceramic shell. This step is essential to prevent contamination of the molten metal and ensure accurate casting dimensions",
+        "d": "The wax pattern is heated in an oven or autoclave, causing it to melt and flow out, leaving a hollow cavity inside the ceramic shell. This step is essential to prevent contamination of the molten metal and ensure accurate casting dimensions"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+ {
+      "question": "What is the final step in the investment casting process? (LO2)",
+      "answers": {
+        "a": "Breaking the ceramic shell to remove the casting",
+        "b": "Machining the part into the final shape",
+        "c": "Recycling the wax for future use",
+        "d": "Reheating the mould before reuse"
+      },
+      "explanations": {
+        "a": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment or surface polishing to meet final specifications.",
+        "b": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment or surface polishing to meet final specifications.",
+        "c": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment or surface polishing to meet final specifications.",
+        "d": "Once the molten metal has solidified, the ceramic shell is broken away using mechanical vibration or water blasting. This reveals the final casting, which may undergo finishing operations such as machining, heat treatment or surface polishing to meet final specifications."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
